@@ -1,4 +1,5 @@
-### Olá! Eu sou o João Alves 👋🏽<br>
+### Olá! Eu sou o João Alves
+
 - 📖 No presente momento estou no último semestre do curso de Ciência da Computação na PUC-Goiás.<br>
 - 💼 Trabalho atualmente como Analista RPA na Soluti.<br>
 - 🌱 Atualmente estou aprendendo mais sobre bibliotecas, APIs e frameworks.<br>
