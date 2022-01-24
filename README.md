@@ -2,7 +2,7 @@
 
 - 📖 No presente momento estou no último semestre do curso de Ciência da Computação na PUC-Goiás.<br>
 - 💼 Trabalho atualmente como Analista RPA na Soluti.<br>
-- 🌱 Atualmente estou aprendendo mais sobre bibliotecas, APIs e frameworks.<br>
+- 🌱 Tenho voltado minha pesquisa para a linguagem Python assim como sobre bibliotecas, APIs e frameworks.<br>
 - ‍💻 Metas de 2022: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.<br>
 
 <div>
