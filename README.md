@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Alves
 
-- 📖 Ciêncista da Computação pela PUC-Goiás.<br>
-- 💼 Trabalho atualmente como Analista RPA na Soluti.<br>
+- 📖 Graduado em Ciência da Computação pela PUC-Goiás.<br>
+- 💼 Trabalho atualmente como Analista de Desenvolvimento de Sistemas Sênior na Alianzo.<br>
 - 🌱 Tenho voltado minha pesquisa para a linguagem Python assim como, sobre bibliotecas, APIs e frameworks.<br>
 - ‍💻 Metas de 2022: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.<br>
 
