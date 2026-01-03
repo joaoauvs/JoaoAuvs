@@ -31,12 +31,13 @@ class JoaoAlves:
             "Inteligência Artificial",
             "Integração de APIs"
         ]
-        self.goal_2025 = "Escalar soluções de automação com IA"
+        self.goal_2026 = "Escalar soluções de automação com IA"
 
     def get_skills(self):
         return {
             "languages": ["Python", "JavaScript", "SQL"],
             "frameworks": ["FastAPI", "Django", "Flask"],
+            "frontend": ["React", "Next.js", "Vite", "Electron"],
             "automation": ["n8n", "Selenium", "BeautifulSoup", "Pandas"],
             "ai_tools": ["OpenAI", "LangChain", "TensorFlow"]
         }
@@ -61,6 +62,10 @@ class JoaoAlves:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### IA & Automação
 
@@ -73,25 +78,12 @@ class JoaoAlves:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoauvs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoauvs&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoauvs&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 Áreas de Expertise
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/automation.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/000000/robot.png" width="50"/>
       <br><b>Automação</b>
       <br>Processos RPA, Scripts Python, Integração de Sistemas
     </td>
