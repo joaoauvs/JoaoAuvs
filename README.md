@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoauvs/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoauvs)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562996868099?text=Olá%20João,%20vim%20do%20seu%20GitHub!)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Tech+Lead+RPA;Automação+com+n8n;Desenvolvimento+Python;Soluções+com+IA" alt="Typing SVG" />
 
@@ -83,22 +84,112 @@ class JoaoAlves:
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/robot.png" width="50"/>
+      🤖
       <br><b>Automação</b>
       <br>Processos RPA, Scripts Python, Integração de Sistemas
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
+      🧠
       <br><b>Inteligência Artificial</b>
       <br>LLMs, Machine Learning, Chatbots Inteligentes
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/api.png" width="50"/>
+      🔌
       <br><b>APIs & Integração</b>
       <br>REST APIs, Webhooks, Microserviços
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Experiência Profissional
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      💼
+      <br><b>Tech Lead & Arquiteto RPA</b>
+      <br><small>Trinus (2024–Atual)</small>
+      <br>Arquitetura de automações, pipelines com Apache Airflow, sistemas full-stack e IA Generativa
+    </td>
+    <td align="center" width="25%">
+      👨‍💻
+      <br><b>Desenvolvedor & Analista RPA Sênior</b>
+      <br><small>Alianzo (2022-2024)</small>
+      <br>Arquitetou ambiente de orquestração com Python, Docker, FastAPI, RabbitMQ
+    </td>
+    <td align="center" width="25%">
+      🎓
+      <br><b>Desenvolvedor/Analista RPA</b>
+      <br><small>Soluti Digital (2021-2022)</small>
+      <br>Desenvolvimento de robôs RPA, integração com SAP, APIs com Django/FastAPI/Flask
+    </td>
+    <td align="center" width="25%">
+      🛠️
+      <br><b>Suporte Técnico</b>
+      <br><small>Goiás Construtora (2018-2020)</small>
+      <br>Infraestrutura de TI e primeiras automações com Selenium
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Projetos Notáveis
+
+<div align="center">
+
+### 🥈 **2º Lugar no Programa de Iniciativas de Impacto da Trinus**
+**Portal de Solicitação de Pagamentos** - Sistema full-stack com FastAPI, React e n8n
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      ⚙️
+      <br><b>Orquestrador RPA</b>
+      <br>RabbitMQ + Docker + FastAPI
+      <br><small>Ambiente para gerenciar +120 automações em produção</small>
+    </td>
+    <td align="center" width="33%">
+      🤖
+      <br><b>Automação de Atas de Reunião</b>
+      <br>Read AI + n8n
+      <br><small>Redução de 90% do trabalho manual</small>
+    </td>
+    <td align="center" width="33%">
+      📊
+      <br><b>Suite SPED Fiscal</b>
+      <br>Automações para ReceitaNetBX
+      <br><small>Validação e transmissão fiscal automatizada</small>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tecnologias Adicionais
+
+<div align="center">
+
+### Infraestrutura & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Ferramentas RPA & Automação
+![Flowise](https://img.shields.io/badge/Flowise-FF6B6B?style=for-the-badge&logo=flowise&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-F05A22?style=for-the-badge&logo=uipath&logoColor=white)
+![Automate Enterprise](https://img.shields.io/badge/Automate_Enterprise-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
+
+### Processamento de Imagens
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
@@ -122,12 +213,14 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração em projeto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoauvs/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoauvs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devgoiano.com.br/)
 
 ### 📫 Interessado em:
-✅ Projetos de Automação
-✅ Soluções com IA
+✅ Projetos de Automação & RPA
+✅ Soluções com IA Generativa
+✅ Arquitetura de Sistemas
 ✅ Consultoria Técnica
-✅ Desenvolvimento de APIs
+✅ Desenvolvimento de APIs & Microserviços
 
 </div>
 
