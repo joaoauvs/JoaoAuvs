@@ -63,6 +63,20 @@ Na prática, isso inclui:
 
 ---
 
+## GitHub em números
+
+<div align="center">
+
+![Estatísticas de João](https://github-readme-stats.vercel.app/api?username=joaoauvs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoauvs&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=joaoauvs&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
 ## Destaques de impacto
 
 - **Tech Lead na Trinus** liderando iniciativas de RPA, melhoria contínua e soluções com IA
