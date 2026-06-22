@@ -87,6 +87,30 @@ Na prática, isso inclui:
 
 ---
 
+## Projetos em destaque
+
+### Portal de Solicitação de Pagamentos
+Plataforma interna que centraliza e padroniza o fluxo de solicitação e aprovação de pagamentos, reduzindo retrabalho e dando rastreabilidade ao processo financeiro. **2º lugar no Programa de Iniciativas de Impacto da Trinus.**
+
+`Python` · `FastAPI` · `React` · `Integrações`
+
+### Orquestrador de automações
+Ambiente de orquestração que sustenta **mais de 120 automações em produção**, com filas, isolamento por container e APIs internas para acionamento e monitoramento — base para escalar RPA com estabilidade.
+
+`Python` · `Docker` · `FastAPI` · `RabbitMQ`
+
+### Automação de atas de reunião
+Pipeline que captura, transcreve e estrutura atas de reunião automaticamente, integrando IA generativa ao fluxo de trabalho e **reduzindo cerca de 90% do esforço manual**.
+
+`n8n` · `Read AI` · `OpenAI` · `IA generativa`
+
+### Soluções fiscais e operacionais
+Conjunto de robôs e integrações para rotinas fiscais e operacionais, com foco em confiabilidade, conciliação de dados e integração com sistemas legados e APIs externas.
+
+`Python` · `Selenium` · `APIs` · `SQL`
+
+---
+
 ## Trajetória
 
 ### Trinus
