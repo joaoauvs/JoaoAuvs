@@ -1,16 +1,25 @@
+<div align="center">
+
 # João Alves
 
-**Tech Lead em RPA, automação de processos e soluções com IA**
+**Tech Lead em RPA, Automação de Processos e Soluções com IA**
 
-Transformo operações complexas em sistemas confiáveis, escaláveis e mensuráveis. Hoje lidero iniciativas de automação e melhoria contínua na Trinus, unindo Python, APIs, n8n e IA aplicada para reduzir trabalho operacional, integrar sistemas e acelerar processos de negócio.
+Transformo operações complexas em sistemas confiáveis, escaláveis e mensuráveis.
 
-[LinkedIn](https://www.linkedin.com/in/joaoauvs/) • [GitHub](https://github.com/joaoauvs) • [Portfólio](https://devgoiano.com.br/) • [Email](mailto:joaoauvs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoauvs/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://devgoiano.com.br/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoauvs@gmail.com)
+[![Perfil](https://komarev.com/ghpvc/?username=joaoauvs&style=for-the-badge&color=6C5CE7&label=Visitas)](https://github.com/joaoauvs)
+
+</div>
 
 ---
 
 ## Sobre mim
 
 Sou formado em **Ciência da Computação pela PUC-Goiás** e construí minha carreira em cima de um tipo de problema que gosto de resolver: processos importantes demais para depender de esforço manual e complexos demais para aceitar soluções frágeis.
+
+Hoje lidero iniciativas de automação e melhoria contínua na **Trinus**, unindo Python, APIs, n8n e IA aplicada para reduzir trabalho operacional, integrar sistemas e acelerar processos de negócio.
 
 Meu foco está em:
 
@@ -36,13 +45,13 @@ Na prática, isso inclui:
 
 ## Stack principal
 
-### Linguagens
+**Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Back-end e aplicações
+**Back-end e aplicações**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -51,7 +60,7 @@ Na prática, isso inclui:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
-### Automação, IA e infraestrutura
+**Automação, IA e infraestrutura**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -72,6 +81,8 @@ Na prática, isso inclui:
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoauvs&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
 
 ![Sequência de contribuições](https://streak-stats.demolab.com/?user=joaoauvs&hide_border=true&theme=tokyonight)
+
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=joaoauvs&hide_border=true&theme=tokyo-night&area=true)
 
 </div>
 
@@ -114,25 +125,25 @@ Conjunto de robôs e integrações para rotinas fiscais e operacionais, com foco
 ## Trajetória
 
 ### Trinus
-**Tech Lead | RPA e Melhoria Contínua**  
+**Tech Lead | RPA e Melhoria Contínua**
 2024 - atual
 
 Arquitetura de automações, produtos internos, pipelines e soluções com IA generativa para apoiar áreas operacionais e financeiras.
 
 ### Alianzo
-**Desenvolvedor e Analista RPA Sênior**  
+**Desenvolvedor e Analista RPA Sênior**
 2022 - 2024
 
 Estruturação de ambiente de orquestração com Python, Docker, FastAPI e RabbitMQ para suportar automações em produção.
 
 ### Soluti Digital
-**Desenvolvedor e Analista RPA**  
+**Desenvolvedor e Analista RPA**
 2021 - 2022
 
 Desenvolvimento de robôs, integrações com SAP e APIs usando Django, FastAPI e Flask.
 
 ### Goiás Construtora
-**Suporte Técnico**  
+**Suporte Técnico**
 2018 - 2020
 
 Atuação em infraestrutura de TI e primeiros projetos de automação com Selenium.
@@ -154,4 +165,10 @@ Tenho interesse especial em projetos que envolvam:
 
 Se você trabalha com **automação**, **IA aplicada ao negócio**, **integração de sistemas** ou **arquitetura de soluções internas**, faz sentido conversar.
 
-[LinkedIn](https://www.linkedin.com/in/joaoauvs/) • [Portfólio](https://devgoiano.com.br/) • [Email](mailto:joaoauvs@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoauvs/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://devgoiano.com.br/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoauvs@gmail.com)
+
+</div>
