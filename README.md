@@ -76,9 +76,9 @@ Na prática, isso inclui:
 
 <div align="center">
 
-![Estatísticas de João](https://github-readme-stats.vercel.app/api?username=joaoauvs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![Estatísticas de João](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoauvs&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoauvs&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoauvs&theme=tokyonight)
 
 ![Sequência de contribuições](https://streak-stats.demolab.com/?user=joaoauvs&hide_border=true&theme=tokyonight)
 
