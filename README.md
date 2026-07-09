@@ -76,10 +76,6 @@ Na prática, isso inclui:
 
 <div align="center">
 
-![Estatísticas de João](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoauvs&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoauvs&theme=tokyonight)
-
 ![Sequência de contribuições](https://streak-stats.demolab.com/?user=joaoauvs&hide_border=true&theme=tokyonight)
 
 ![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=joaoauvs&hide_border=true&theme=tokyo-night&area=true)
